@@ -32,7 +32,7 @@ int main(){
     fflush(stdin);
     scanf("%d",&numeroDeDisciplinas);
     
-    printf("\nInforme o numero de Alunos\t");
+    printf("\nInforme o numero de Alunos para cadastrar\t");
     fflush(stdin);;
     scanf("%d",&numeroDeAlunos);
 
